@@ -138,3 +138,24 @@ li a {
 .rightColumnTitle {
     width: 60%;
 }
+.work {
+    height: 900px;
+}
+
+.myApplications {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.apps {
+    margin: 2px;
+    border: 1px solid gray;
+    width: 49%;
+    height: 250px;
+}
+
+#application1 {
+    width: 100%;
+    height: 300PX;
+}
