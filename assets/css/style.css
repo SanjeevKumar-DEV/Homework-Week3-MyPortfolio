@@ -55,6 +55,8 @@ li a {
 .headerMenuNavigation {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: row;
     width: 100%;
     height: 80px;
     background-color: rgb(48, 46, 46);
@@ -113,6 +115,7 @@ li a {
     display: flex;
     justify-content: space-between;
     flex-direction: column;
+    flex-wrap: wrap;
     margin: 5px;
     border: 5px solid gray;
 }
@@ -121,6 +124,17 @@ li a {
     display: flex;
     justify-content: space-between;
     flex-direction: row;
+    flex-wrap: wrap;
     width: 100%;
     height: 500px;
+}
+.leftColumnTitle {
+    width: 25%;
+}
+.leftColumnTitle h3 {
+    font-size: 45px;
+    color: rgb(40, 40, 92);
+}
+.rightColumnTitle {
+    width: 60%;
 }
