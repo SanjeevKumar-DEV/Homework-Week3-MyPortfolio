@@ -126,9 +126,14 @@ li a {
     flex-direction: row;
     flex-wrap: wrap;
     width: 100%;
-    height: 500px;
+    height: auto;
 }
 .leftColumnTitle {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
     width: 25%;
     margin: 10px;
     border: 0px;
@@ -142,7 +147,7 @@ li a {
     width: 70%;
 }
 .work {
-    height: 1200px;
+    height: auto;
 }
 
 .myApplications {
