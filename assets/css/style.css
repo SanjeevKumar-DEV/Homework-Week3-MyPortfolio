@@ -49,6 +49,12 @@ li a {
     border-bottom: 2px solid turquoise;
     /* text-decoration-thickness: 2px; */
   }
+  p {
+    margin: 15px;
+    font-size: 20px;
+    line-height: 25px;
+    color: rgb(21, 21, 100);;
+  }
 
   
 /* Controlling styling of header part */
@@ -137,11 +143,11 @@ li a {
     width: 25%;
     margin: 10px;
     border: 0px;
-    border-right: 5px solid gray;
+    border-right: 5px solid rgb(21, 21, 100);
 }
 .leftColumnTitle h3 {
     font-size: 45px;
-    color: rgb(40, 40, 92);
+    color: rgb(21, 21, 100);
 }
 .rightColumnTitle {
     width: 70%;
@@ -157,9 +163,9 @@ li a {
     flex-direction: row;
 }
 .apps {
-    margin: 10px;
-    border: 3px solid gray;
-    width: 46%;
+    margin: 15px;
+    border: 3px solid turquoise;
+    width: 45%;
     height: 250px;
 }
 
