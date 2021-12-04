@@ -241,20 +241,6 @@ main {
     text-align: center;
 }
 
-nav {
-    display: inline-block;
-    margin: 5px;
-    height: 30px;
-    padding: 15px;
-    border: 5px solid rgb(48, 46, 46);
-}
-
-/* ul {
-    margin: 5px; 
-    list-style-type: none;
-    overflow: hidden;
-} */
-
 .contactMeContent {
     display: flex;
     flex-wrap: wrap;
@@ -291,3 +277,5 @@ nav {
     padding: 0px 20px;
     border-bottom: 3px solid rgb(21, 21, 100);
   }
+
+
