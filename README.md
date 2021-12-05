@@ -1,6 +1,10 @@
 # Homework-Week3-MyPortfolio
 Home work week 3 - My portfolio for future employers
 
+Important Links:
+a. Link to Repository: https://github.com/SanjeevKumar-DEV/Homework-Week3-MyPortfolio
+b. Link to deployed application:https://sanjeevkumar-dev.github.io/Homework-Week3-MyPortfolio/
+
 My Portfolio Website
 
 ![image](https://user-images.githubusercontent.com/93074312/144735444-d8f4cfcb-bc13-43ea-88f5-8df3de99d08b.png)
